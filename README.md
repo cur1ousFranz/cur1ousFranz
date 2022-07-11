@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Franz Jeff Dignos</h1>
-<h3 align="center">A passionate Web Developer from Philippines currently studying at 3rd year college pursuing a degree of Bachelor of Science in Information Technology</h3>
+<h3 align="center">A passionate Web Developer from Philippines a graduating student pursuing a degree of Bachelor of Science in Information Technology</h3>
 
 - 🔭 I’m currently working on **Student Management System**
 
