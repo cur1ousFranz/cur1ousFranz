@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I'm Franz Jeff Dignos</h1>
+<h1 align="center">Hi 👋 I'm Franz Jeff Dignos</h1>
 <h3 align="center">A passionate Web Developer from Philippines a graduating student pursuing a degree of Bachelor of Science in Information Technology</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cur1ousfranz" alt="cur1ousfranz" /></a> </p>
